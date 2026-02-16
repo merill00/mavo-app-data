@@ -1,0 +1,38 @@
+{
+	"restaurant": [
+		{
+			"picture": "https://www.toscanoboston.com/common/images/thumb-cucina.jpg",
+			"url": "http://www.toscanoboston.com/beacon-hill",
+			"name": "Toscano",
+			"visit": [
+				{
+					"date": "2016-03-15",
+					"title": "Date night!",
+					"dish": [
+						{
+							"name": "\n                      Filet mignon with black truffle and foie gras\n                    ",
+							"dishRating": 4
+						}
+					]
+				}
+			]
+		},
+		{
+			"picture": "https://cdn.jsdelivr.net/gh/merill00/mavo-app-data@7ddfb968082002e281324a3cde2782e54e62b717/images/thumb-harvard-square-front-main.jpg",
+			"url": "https://www.toscanoboston.com/harvard-square/",
+			"name": "Harvard Square",
+			"visit": [
+				{
+					"date": "2026-02-16",
+					"title": "Birthday",
+					"dish": [
+						{
+							"name": "Samon",
+							"dishRating": 4
+						}
+					]
+				}
+			]
+		}
+	]
+}
