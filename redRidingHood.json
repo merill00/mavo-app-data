@@ -1,0 +1,73 @@
+{
+	"readAloud": false,
+	"page": [
+		{
+			"title": "Once Upon a Time",
+			"image": "images/page1.png",
+			"text": "\n          Little Red Riding Hood lived in a village near the forest.\n        ",
+			"audio": "https://cdn.jsdelivr.net/gh/merill00/mavo-app-data@03b5d80b3bbf9e30df4d79efd4bfcd683e1932fa/audios/page1.mp3",
+			"voStart": "0.0",
+			"voEnd": "6.2"
+		},
+		{
+			"title": "Introduction",
+			"image": "https://cdn.jsdelivr.net/gh/merill00/mavo-app-data@d71ae758b57e73a05ac4b86dc5f9cafd6818a2d6/images/page2.png",
+			"text": "Once upon a time there was a girl called Little Red RidingHood. She lived with her mother in a village near a forest."
+		},
+		{
+			"title": "The Mission",
+			"image": "https://cdn.jsdelivr.net/gh/merill00/mavo-app-data@7168264420bf3d157421a34e701f9c73d830d779/images/page3.png",
+			"text": "One day, Little Red Riding Hood went to visit her sick grandmother. She took a basket of food with her."
+		},
+		{
+			"title": "The Forest Path",
+			"image": "https://cdn.jsdelivr.net/gh/merill00/mavo-app-data@741cddaf0909d953cf68b924d1501f58b3736566/images/page4.png",
+			"text": "On her way, Little Red Riding Hood met a wolf. \"Hello,\" said the wolf.  “Where are you going?\" \"I'm going to visit my grandmother who lives in the forest,\" explained Little Red Riding Hood."
+		},
+		{
+			"title": "Grandma’s House",
+			"image": "https://cdn.jsdelivr.net/gh/merill00/mavo-app-data@ab595ecc4f99a307971ce85618ca5b26c39cd3ea/images/page5.png",
+			"text": "The wolf ran to her grandmother's house. He went inside and locked her in the wardrobe! He put on her nightgown and got into her bed."
+		},
+		{
+			"title": "Arrived at Grandmother's house",
+			"image": "https://cdn.jsdelivr.net/gh/merill00/mavo-app-data@43a7c892a93793913992a5c17a3137f3833522f8/images/page6.png",
+			"text": "A little later, Little Red Riding Hood came to the house.She knocked on the door, then went inside."
+		},
+		{
+			"title": "Disguise",
+			"image": "https://cdn.jsdelivr.net/gh/merill00/mavo-app-data@8145b6f0e784df4c2c0d31c3a6516c80f9c48912/images/page7.png",
+			"text": "Little Red Riding Hood went over to Grandmother's bed.\"Oh Granny, what big ears you have,\" she said.\"All the better to hear you with,\"answered the wolf."
+		},
+		{
+			"title": "Red Riding Hood's first question",
+			"image": "https://cdn.jsdelivr.net/gh/merill00/mavo-app-data@604bc5b6c11b8c102f581b94a0af102804fa2e04/images/page8.png",
+			"text": "\"Oh Granny, what big eyes you have,\" said Little Red Riding Hood.\n\"All the better to see you with,\" replied the wolf."
+		},
+		{
+			"title": "Red Riding Hood's second question",
+			"image": "https://cdn.jsdelivr.net/gh/merill00/mavo-app-data@0e0718736acde979b7b591e304e681361ff1f74e/images/page9.png",
+			"text": "\"Oh Granny, what big teeth you have,\" said Little Red Riding Hood.\n\"Al the better to eat you with,\" said the wolf."
+		},
+		{
+			"title": "Call for Help",
+			"image": "https://cdn.jsdelivr.net/gh/merill00/mavo-app-data@4e451bfaff7081e88549b9d6bab0ca47237c0a4b/images/page10.png",
+			"text": "\"Help!\" shouted Little Red Riding Hood as she realized that there was a wolf in her grandmother's bed.  She ran out of the house."
+		},
+		{
+			"title": " The Rescue",
+			"image": "https://cdn.jsdelivr.net/gh/merill00/mavo-app-data@6b814302bd4fdff0f021d9504130a878406f442c/images/page11.png",
+			"text": "A woodcutter was nearby. He heard Little Red Riding Hood's scream and ran to the house."
+		},
+		{
+			"title": "Safe Again",
+			"image": "https://cdn.jsdelivr.net/gh/merill00/mavo-app-data@f59880fd9cbd35510b54f65578caec623e7e90e0/images/page12.png",
+			"text": "The woodcutter hit the wolf over the head. The wolf ran away and Little Red Riding Hood never saw him again."
+		},
+		{
+			"title": "Lesson learned",
+			"image": "https://cdn.jsdelivr.net/gh/merill00/mavo-app-data@383a70d068d4fb3c53f47695aeee477c0cec070b/images/page13.png",
+			"text": "Little Red Riding Hood learned to never talk to strangers."
+		}
+	]
+}
