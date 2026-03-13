@@ -1,0 +1,9 @@
+{
+	"current": "0",
+	"pages": [
+		{
+			"title": "Page Title",
+			"richtext": "\n            <p>\n              Lorem Ipsum is simply dummy text of the printing and typesetting\n              industry. It has survived not only five centuries but also the\n              leap into electronic typesetting.\n            </p>\n          "
+		}
+	]
+}
