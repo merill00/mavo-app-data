@@ -1,7 +1,12 @@
 {
-	"current": 1,
+	"current": 0,
 	"pages": [
-		[],
+		[
+			{
+				"title": "Page Title",
+				"content": ""
+			}
+		],
 		[
 			{
 				"title": "Page Title",
