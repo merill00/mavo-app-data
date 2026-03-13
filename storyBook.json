@@ -2,11 +2,11 @@
 	"current": 0,
 	"pages": [
 		{
-			"title": "Page Title",
+			"title": "Page 1",
 			"richtext": "\n            <p>\n              Lorem Ipsum is simply dummy text of the printing and typesetting\n              industry. It has survived not only five centuries but also the\n              leap into electronic typesetting.\n            </p>\n          "
 		},
 		{
-			"title": "Page Title",
+			"title": "Page 2",
 			"richtext": "\n            <p>\n              Lorem Ipsum is simply dummy text of the printing and typesetting\n              industry. It has survived not only five centuries but also the\n              leap into electronic typesetting.\n            </p>\n          "
 		}
 	]
