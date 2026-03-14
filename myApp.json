@@ -1,3 +1,9 @@
 {
-	"mainImage": "https://picsum.photos/800/400"
+	"mainImage": "https://picsum.photos/800/400",
+	"pages": [
+		{
+			"picture": "https://picsum.photos/800/400",
+			"richtext": "\n              "
+		}
+	]
 }
