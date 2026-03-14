@@ -3,7 +3,8 @@
 	"pages": [
 		{
 			"picture": "https://picsum.photos/800/400",
-			"richtext": "\n              "
+			"richtext": "\n              ",
+			"text": "\n              "
 		}
 	]
 }
