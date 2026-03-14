@@ -1,5 +1,5 @@
 {
-	"current": 4,
+	"current": 5,
 	"pages": [
 		{
 			"picture": "./pictures/page1.png",
@@ -19,6 +19,10 @@
 		},
 		{
 			"picture": "./pictures/page5.png",
+			"richtext": "<p>The wolf ran to her grandmother's house. He went inside and locked her in the wardrobe! He put on her nightgown and got into her bed.</p>"
+		},
+		{
+			"picture": "./pictures/page6.png",
 			"richtext": "\n              <p>\n                Lorem Ipsum is simply dummy text of the printing and typesetting\n                industry. It has survived not only five centuries but also the\n                leap into electronic typesetting.\n              </p>\n            "
 		}
 	]
