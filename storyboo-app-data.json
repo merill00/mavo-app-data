@@ -1,5 +1,5 @@
 {
-	"current": 3,
+	"current": 4,
 	"pages": [
 		{
 			"picture": "./pictures/page1.png",
@@ -15,7 +15,11 @@
 		},
 		{
 			"picture": "./pictures/page4.png",
-			"richtext": "<p>On her way, Little Red Riding Hood met a wolf. \"Hello,\" said the wolf.&nbsp; \"Where are you going?\" \"I'm going to visit my grandmother who lives in the forest,\" explained Little Red Riding Hood.</p>"
+			"richtext": "<p>On her way, Little Red Riding Hood met a wolf. \"Hello,\" said the wolf.&nbsp; \"Where are you going?\"&nbsp; \"I'm going to visit my grandmother who lives in the forest,\" explained Little Red Riding Hood.</p>"
+		},
+		{
+			"picture": "./pictures/page1.png",
+			"richtext": "\n              <p>\n                Lorem Ipsum is simply dummy text of the printing and typesetting\n                industry. It has survived not only five centuries but also the\n                leap into electronic typesetting.\n              </p>\n            "
 		}
 	]
 }
